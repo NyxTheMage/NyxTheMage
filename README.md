@@ -27,3 +27,8 @@ you can find me on Twitter at [@NyxTheMage](https://twitter.com/nyxthemage)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4eaa25)
+
+## Buy Me A Coffee
+
+[PayPal.Me/nyxthemage](https://paypal.me/nyxthemage)
+[ko-fi.com/nyxthemage](https://ko-fi.com/nyxthemage)
