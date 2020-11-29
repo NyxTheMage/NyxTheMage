@@ -30,5 +30,11 @@ you can find me on Twitter at [@NyxTheMage](https://twitter.com/nyxthemage)
 
 ## Buy Me A Coffee
 
-[PayPal.Me/nyxthemage](https://paypal.me/nyxthemage)
-[ko-fi.com/nyxthemage](https://ko-fi.com/nyxthemage)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />
+PayPal.Me/nyxthemage](https://paypal.me/nyxthemage)
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg" />
+ko-fi.com/nyxthemage](https://ko-fi.com/nyxthemage)
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />
+buymeacoffee.com/nyxthemage](https://www.buymeacoffee.com/nyxthemage)
