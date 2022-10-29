@@ -1,9 +1,7 @@
+# NyxTheMage
 ![image of NyxTheMage](assets/me.jpg)
 
-# NyxTheMage
-
 ## Where To Find Me
-
 <img height="24" width="24" src="assets/twitter.svg" /> Follow me on [twitter.com/nyxthemage](https://twitter.com/nyxthemage)
 
 <img height="24" width="24" src="assets/twitch.svg" /> Watch me on [twitch.tv/nyxthemage](https://twitch.tv/nyxthemage)
