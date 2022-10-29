@@ -8,10 +8,6 @@
 apt-get install coffee nyxthemage
 ```
 
-## For Reals Tho
-
-I'm currently working on [elefgy](https://github.com/riskywhiskey/elefgy) and other things.
-
 ## Some Links
 
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Follow me at [twitter.com/nyxthemage](https://twitter.com/nyxthemage)
