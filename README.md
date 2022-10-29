@@ -2,21 +2,15 @@
 
 # NyxTheMage
 
-## Install
+## Where To Find Me
 
-```
-apt-get install coffee nyxthemage
-```
+<img height="24" width="24" src="assets/twitter.svg" /> Follow me on [twitter.com/nyxthemage](https://twitter.com/nyxthemage)
 
-## Some Links
+<img height="24" width="24" src="assets/twitch.svg" /> Watch me on [twitch.tv/nyxthemage](https://twitch.tv/nyxthemage)
 
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Follow me at [twitter.com/nyxthemage](https://twitter.com/nyxthemage)
+<img height="24" width="24" src="assets/kofi.svg" /> Buy me a coffee at [ko-fi.com/nyxthemage](https://ko-fi.com/nyxthemage)
 
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" /> Watch me at [twitch.tv/nyxthemage](https://twitch.tv/nyxthemage)
-
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg" /> Buy me a coffee at [ko-fi.com/nyxthemage](https://ko-fi.com/nyxthemage)
-
-## Technologies
+## Tech Knowledge
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=black&color=fcc624)
 ![](https://img.shields.io/badge/BSD-informational?style=for-the-badge&logo=freebsd&logoColor=white&color=ab2b28)
 ![](https://img.shields.io/badge/Mac-informational?style=for-the-badge&logo=apple&logoColor=white&color=999999)
