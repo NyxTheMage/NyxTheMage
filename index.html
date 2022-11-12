@@ -1,18 +1,53 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="me" href="https://mastodon.social/@nyxthemage">
-    <link rel="me" href="https://twitter.com/nyxthemage">
-    <title>NyxTheMage</title>
-    <style>
-    body {
-        background: #FF5292 url("assets/nyxthemage.png") no-repeat fixed center;
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NyxTheMage</title>
+  <style>
+    * {
+      background: transparent;
+      margin: 0;
+      padding: 0;
+      border: 0 none transparent;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      font: bold 18px Arial, Helvetica, sans-serif;
     }
-    </style>
+    body {
+      background: #ff5292;
+    }
+    div.mage {
+      background: url(assets/nyxthemage.png);
+      position: fixed;
+      left: 50%;
+      top: 50%;
+      z-index: 100;
+      width: 210px;
+      height: 270px;
+      margin: -270px 0 0 -105px;
+    }
+    div.content {
+      background: #000;
+      position: fixed;
+      left: 50%;
+      top: 50%;
+      z-index: 10;
+      width: 200px;
+      margin: -100px 0 0 -120px;
+      padding: 100px 20px 20px 20px;
+    }
+  </style>
 </head>
 <body>
-
+<div class="mage"></div>
+<div class="content">
+  <a rel="me" href="https://twitch.tv/nyxthemage">Twitch</a><br><br>
+  <a rel="me" href="https://twitter.com/nyxthemage">Twitter</a><br><br>
+  <a rel="me" href="https://mastodon.social/@nyxthemage">Mastodon</a><br><br>
+  <a rel="me" href="https://youtube.com/nyxthemage">Youtube</a><br><br>
+  <a rel="me" href="https://github.com/nyxthemage">GitHub</a>
+</div>
 </body>
 </html>
