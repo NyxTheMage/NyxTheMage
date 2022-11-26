@@ -7,17 +7,24 @@
 }
 body {
   background: #ff5292;
-}
-p {
   text-align: center;
   font: bold 18px Arial, Helvetica, sans-serif;
 }
 a {
+  display: block;
   color: #fff;
   text-decoration: none;
   line-height: 36px;
 }
-div.mage {
+@media (hover: hover) {
+  a {
+    transition: .5s;
+  }
+  a:hover {
+    background: #8300ff;
+  }
+}
+#mage {
   background: url(../images/nyxthemage.png);
   position: absolute;
   left: 50%;
@@ -27,7 +34,7 @@ div.mage {
   height: 270px;
   margin: 0 0 0 -105px;
 }
-div.content {
+#content {
   background: #000;
   position: absolute;
   left: 50%;
