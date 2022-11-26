@@ -16,31 +16,73 @@ a {
   text-decoration: none;
   line-height: 36px;
 }
-@media (hover: hover) {
-  a {
-    transition: .5s;
-  }
-  a:hover {
-    background: #8300ff;
-  }
+div {
+  position: absolute;
+  left: 50%;
 }
 #mage {
   background: url(../images/nyxthemage.png);
-  position: absolute;
-  left: 50%;
   top: 20px;
-  z-index: 100;
+  z-index: 2;
   width: 210px;
   height: 270px;
   margin: 0 0 0 -105px;
 }
-#content {
+#backboard {
   background: #000;
-  position: absolute;
-  left: 50%;
   top: 200px;
-  z-index: 10;
-  width: 200px;
+  z-index: 1;
+  width: 240px;
+  height: 408px;
   margin: 0 0 0 -120px;
-  padding: 100px 20px 20px 20px;
+}
+#twitch,
+#tumblr,
+#mastodon,
+#twitter,
+#instagram,
+#youtube,
+#github,
+#email {
+  z-index: 3;
+  width: 200px;
+  height: 36px;
+  margin: 0 0 0 -100px;
+  transition: .5s;
+}
+#twitch {
+  top: 300px;
+}
+#tumblr {
+  top: 336px;
+}
+#mastodon {
+  top: 372px;
+}
+#twitter {
+  top: 408px;
+}
+#instagram {
+  top: 444px;
+}
+#youtube {
+  top: 480px;
+}
+#github {
+  top: 516px;
+}
+#email {
+  top: 552px;
+}
+@media (hover: hover) {
+  #twitch:hover,
+  #tumblr:hover,
+  #mastodon:hover,
+  #twitter:hover,
+  #instagram:hover,
+  #youtube:hover,
+  #github:hover,
+  #email:hover {
+    background: #8300ff;
+  }
 }
