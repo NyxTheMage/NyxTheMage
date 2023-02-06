@@ -37,7 +37,7 @@ a {
   margin: 0 0 0 -120px;
   background: #000;
 }
-#twitch, #tumblr, #mastodon, #twitter, #instagram, #youtube, #github, #email {
+#twitch, #tumblr, #mastodon, #twitter, #instagram, #youtube, #email {
   position: absolute;
   left: 50%;
   z-index: 3;
@@ -63,11 +63,8 @@ a {
 #twitter {
   top: 480px;
 }
-#github {
-  top: 516px;
-}
 #email {
-  top: 552px;
+  top: 516px;
 }
 @media (hover: hover) {
   a:hover {
