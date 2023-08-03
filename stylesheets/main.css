@@ -33,11 +33,11 @@ a {
   left: 50%;
   z-index: 1;
   width: 240px;
-  height: 408px;
+  height: 336px;
   margin: 0 0 0 -120px;
   background: #000;
 }
-#twitch, #tumblr, #mastodon, #twitter, #instagram, #youtube, #email {
+#instagram, #twitch, #tumblr, #mastodon, #youtube, #email {
   position: absolute;
   left: 50%;
   z-index: 3;
@@ -45,26 +45,23 @@ a {
   height: 36px;
   margin: 0 0 0 -100px;
 }
-#twitch {
+#instagram {
   top: 300px;
 }
-#tumblr {
+#twitch {
   top: 336px;
 }
-#mastodon {
+#tumblr {
   top: 372px;
 }
-#instagram {
+#mastodon {
   top: 408px;
 }
 #youtube {
   top: 444px;
 }
-#twitter {
-  top: 480px;
-}
 #email {
-  top: 516px;
+  top: 480px;
 }
 @media (hover: hover) {
   a:hover {
