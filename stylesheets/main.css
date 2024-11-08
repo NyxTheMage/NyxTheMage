@@ -48,19 +48,19 @@ a {
 #twitch {
   top: 300px;
 }
-#instagram {
+#bluesky {
   top: 336px;
 }
-#threads {
+#instagram {
   top: 372px;
 }
-#bluesky {
+#threads {
   top: 408px;
 }
-#tumblr {
+#mastodon {
   top: 444px;
 }
-#mastodon {
+#tumblr {
   top: 480px;
 }
 #youtube {
