@@ -2,8 +2,6 @@
 ![image of NyxTheMage](images/me.jpg)
 
 ## Where To Find Me
-<img height="24" width="24" src="images/twitter.svg" /> Follow me on [twitter.com/nyxthemage](https://twitter.com/nyxthemage)
-
 <img height="24" width="24" src="images/twitch.svg" /> Watch me on [twitch.tv/nyxthemage](https://twitch.tv/nyxthemage)
 
 <img height="24" width="24" src="images/kofi.svg" /> Buy me a coffee at [ko-fi.com/nyxthemage](https://ko-fi.com/nyxthemage)
