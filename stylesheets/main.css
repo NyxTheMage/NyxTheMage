@@ -33,12 +33,11 @@ a {
   left: 50%;
   z-index: 1;
   width: 240px;
-  height: 444px;
+  height: 372px;
   margin: 0 0 0 -120px;
   background: #000;
 }
-#twitch, #instagram, #threads, #bluesky, #tumblr,
-#mastodon, #youtube, #email, #github {
+#twitch, #bluesky, #mastodon, #instagram, #youtube, #github, #email {
   position: absolute;
   left: 50%;
   z-index: 3;
@@ -58,20 +57,14 @@ a {
 #instagram {
   top: 408px;
 }
-#threads {
+#youtube {
   top: 444px;
 }
-#tumblr {
+#github {
   top: 480px;
 }
-#youtube {
-  top: 516px;
-}
-#github {
-  top: 552px;
-}
 #email {
-  top: 588px;
+  top: 516px;
 }
 @media (hover: hover) {
   a:hover {
