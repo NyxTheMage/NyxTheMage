@@ -1,73 +1,93 @@
 @charset "UTF-8";
+
 * {
-  background: transparent;
-  margin: 0;
-  padding: 0;
-  border: 0 none transparent;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+    border: 0 none transparent;
 }
+
 body {
-  background: #ff5292;
-  text-align: center;
-  font: bold 18px Arial, Helvetica, sans-serif;
+    background: #ff5292;
+    text-align: center;
+    font: bold 18px Arial, Helvetica, sans-serif;
 }
+
 a {
-  display: block;
-  color: #fff;
-  text-decoration: none;
-  line-height: 36px;
-  transition: .5s;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    line-height: 36px;
+    transition: .5s;
 }
+
 #mage {
-  position: absolute;
-  top: 20px;
-  left: 50%;
-  z-index: 2;
-  width: 210px;
-  height: 270px;
-  margin: 0 0 0 -105px;
-  background: url(../images/nyxthemage.png);
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    z-index: 2;
+    width: 210px;
+    height: 270px;
+    margin: 0 0 0 -105px;
+    background: url(../images/nyxthemage.png);
 }
+
 #backboard {
-  position: absolute;
-  top: 200px;
-  left: 50%;
-  z-index: 1;
-  width: 240px;
-  height: 372px;
-  margin: 0 0 0 -120px;
-  background: #000;
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    z-index: 1;
+    width: 240px;
+    height: 372px;
+    margin: 0 0 0 -120px;
+    background: #000;
 }
-#twitch, #bluesky, #mastodon, #instagram, #youtube, #github, #email {
-  position: absolute;
-  left: 50%;
-  z-index: 3;
-  width: 200px;
-  height: 36px;
-  margin: 0 0 0 -100px;
-}
-#twitch {
-  top: 300px;
-}
-#bluesky {
-  top: 336px;
-}
-#mastodon {
-  top: 372px;
-}
-#instagram {
-  top: 408px;
-}
-#youtube {
-  top: 444px;
-}
-#github {
-  top: 480px;
-}
+
+#twitch,
+#bluesky,
+#mastodon,
+#instagram,
+#youtube,
+#github,
 #email {
-  top: 516px;
+    position: absolute;
+    left: 50%;
+    z-index: 3;
+    width: 200px;
+    height: 36px;
+    margin: 0 0 0 -100px;
 }
+
+#twitch {
+    top: 300px;
+}
+
+#bluesky {
+    top: 336px;
+}
+
+#mastodon {
+    top: 372px;
+}
+
+#instagram {
+    top: 408px;
+}
+
+#youtube {
+    top: 444px;
+}
+
+#github {
+    top: 480px;
+}
+
+#email {
+    top: 516px;
+}
+
 @media (hover: hover) {
-  a:hover {
-    background: #8300ff;
-  }
+    a:hover {
+        background: #8300ff;
+    }
 }
