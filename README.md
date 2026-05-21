@@ -10,3 +10,8 @@
 [<img src="images/instagram-color.svg" width="30" height="30"> /nyxthemage](https://www.instagram.com/nyxthemage)
 
 [<img src="images/kofi-color.svg" width="30" height="30"> /nyxthemage](https://ko-fi.com/nyxthemage)
+
+### TODO ###
+
+- [ ] Build a digital garden.
+
