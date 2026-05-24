@@ -1,5 +1,9 @@
 {
   "imports": {
     "@11ty/eleventy": "npm:@11ty/eleventy@^3.1.5"
+  },
+  "tasks": {
+    "build": "deno x @11ty/eleventy --output=./docs --input=./source",
+    "serve": "deno x @11ty/eleventy --output=./docs --input=./source --serve"
   }
 }
