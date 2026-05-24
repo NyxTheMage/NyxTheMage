@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@11ty/eleventy": "npm:@11ty/eleventy@^3.1.5"
+  }
+}
