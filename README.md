@@ -1,5 +1,5 @@
 # NyxTheMage
-![image of NyxTheMage](assets/images/me.jpg)
+![image of NyxTheMage](source/images/me.jpg)
 
 [twitch.tv/nyxthemage](https://twitch.tv/nyxthemage)
 
