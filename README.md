@@ -16,4 +16,5 @@
 - [ ] Build a digital garden.
 - [ ] Maybe try Eleventy?
 - [ ] Keep is simple, stupid.
+- [ ] Make things better.
 
