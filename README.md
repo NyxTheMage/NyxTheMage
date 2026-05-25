@@ -17,6 +17,7 @@
 - [ ] Maybe try 11ty or Hugo?
 - [ ] Keep it simple, stupid.
 - [ ] Make things better.
-- [ ] Install 11ty.
-- [ ] Install Deno.
+- [ ] Mirror to GitLab.
+- [x] Install 11ty.
+- [x] Install Deno.
 
