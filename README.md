@@ -4,7 +4,7 @@
 | [GitLab](https://gitlab.com/NyxTheMage)
 | [Codeberg](https://codeberg.org/NyxTheMage)
 
-![image of NyxTheMage](source/images/me.jpg)
+![image of NyxTheMage](includes/images/me.jpg)
 
 - [twitch.tv/nyxthemage](https://twitch.tv/nyxthemage)
 - [bsky.app/nyxthemage.com](https://bsky.app/profile/nyxthemage.com)
