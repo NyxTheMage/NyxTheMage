@@ -3,6 +3,7 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"includes/images": "images"});
   eleventyConfig.addPassthroughCopy({"includes/javascript": "javascript"});
   eleventyConfig.addPassthroughCopy({"includes/stylesheets": "stylesheets"});
+  eleventyConfig.addPassthroughCopy({"includes/CNAME": "CNAME"});
 };
 
 export const config = {
