@@ -4,6 +4,8 @@
     "serve": "dx @11ty/eleventy --serve"
   },
   "imports": {
-    "@11ty/eleventy": "npm:@11ty/eleventy@^3.1.5"
-  }
+    "@11ty/eleventy": "npm:@11ty/eleventy@^3.1.5",
+    "@11ty/eleventy-img": "npm:@11ty/eleventy-img@^6.0.4"
+  },
+  "nodeModulesDir": "auto"
 }

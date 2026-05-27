@@ -1,4 +1,7 @@
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+
 export default async function(eleventyConfig) {
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
   eleventyConfig.addPassthroughCopy({"includes/favicon": "favicon"});
   eleventyConfig.addPassthroughCopy({"includes/images": "images"});
   eleventyConfig.addPassthroughCopy({"includes/javascript": "javascript"});
@@ -8,7 +11,7 @@ export default async function(eleventyConfig) {
 
 export const config = {
   dir: {
-    input: "pages",
+    input: "content",
     includes: "includes",
     output: "docs"
   }
