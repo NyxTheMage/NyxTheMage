@@ -19,6 +19,7 @@
 - [ ] Keep it simple, stupid.
 - [ ] Make things better.
 - [ ] Enjoy coding again?
+- [ ] Treat website like I would an Obsidian vault.
 - [x] Mirror to Codeberg.
 - [x] Mirror to GitLab.
 - [x] Install 11ty.
