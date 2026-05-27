@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +12,7 @@
     <script src="javascript/main.js"></script>
     <title>NyxTheMage</title>
 </head>
+
 <body>
     <div id="mage"></div>
     <div id="backboard"></div>
@@ -36,5 +38,7 @@
         <a rel="me" href="mailto:&#x6e;&#x79;&#x78;&#x40;&#x6e;&#x79;&#x78;&#x74;&#x68;&#x65;&#x6d;&#x61;&#x67;&#x65;&#x2e;&#x63;&#x6f;&#x6d;">Email</a>
     </div>
 </body>
+
 </html>
+
 <!-- Generative AI is unethical I want to leave this place -->
