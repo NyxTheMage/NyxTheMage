@@ -15,11 +15,12 @@
 ### To-do
 
 - [ ] Build a digital garden.
-- [ ] Maybe try 11ty or Hugo?
+- [x] Maybe try 11ty or Hugo?
 - [ ] Keep it simple, stupid.
-- [ ] Make things better.
-- [ ] Enjoy coding again?
-- [ ] Treat website like I would an Obsidian vault.
+- [ ] I just want to make things better.
+- [ ] Can I enjoy coding again?
+- [ ] Can treat website like a pile of notes.
+- [x] How does 11ty pass markdown links?
 - [x] Mirror to Codeberg.
 - [x] Mirror to GitLab.
 - [x] Install 11ty.
