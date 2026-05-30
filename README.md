@@ -19,7 +19,8 @@
 - [ ] Keep it simple, stupid.
 - [ ] I just want to make things better.
 - [ ] Can I enjoy coding again?
-- [ ] Can treat website like a pile of notes.
+- [ ] Learn to build 11ty template.
+- [x] Can treat website like a pile of notes.
 - [x] How does 11ty pass markdown links?
 - [x] Mirror to Codeberg.
 - [x] Mirror to GitLab.
