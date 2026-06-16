@@ -17,7 +17,7 @@ export const config = {
     input: "./content",
     data: "./data",
     includes: "./includes",
-    output: "./docs"
+    output: "./public"
   }
 };
 
