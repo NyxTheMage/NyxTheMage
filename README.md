@@ -1,8 +1,8 @@
 ### NyxTheMage
 
-[GitHub](https://github.com/NyxTheMage)
-| [GitLab](https://gitlab.com/NyxTheMage)
+[GitLab](https://gitlab.com/NyxTheMage)
 | [Codeberg](https://codeberg.org/NyxTheMage)
+| [GitHub](https://github.com/NyxTheMage)
 
 ![image of NyxTheMage](content/me.jpg)
 
