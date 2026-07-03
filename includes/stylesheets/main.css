@@ -48,8 +48,7 @@ a {
 #mastodon,
 #instagram,
 #youtube,
-#github,
-#email {
+#github {
     position: absolute;
     left: 50%;
     z-index: 3;
@@ -80,10 +79,6 @@ a {
 
 #github {
     top: 480px;
-}
-
-#email {
-    top: 516px;
 }
 
 @media (hover: hover) {
