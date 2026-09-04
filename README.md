@@ -41,5 +41,5 @@ I honestly feel like
 the AI-pilled might be in some kind of cult or mass delusion?
 
 > "Nobody wants to read something that you didn't bother writing."
-> - David Gerard
+> -- David Gerard
 
