@@ -6,3 +6,5 @@
 - I wanna give Deno a go.
 - I like the philosophy behind digital gardens.
 - Let's build one of those.
+- I wanna learn C again.
+
